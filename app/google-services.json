@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "353588957423",
+    "firebase_url": "https://tilden-man.firebaseio.com",
+    "project_id": "tilden-man",
+    "storage_bucket": "tilden-man.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353588957423:android:ea22f033334bf64a",
+        "android_client_info": {
+          "package_name": "com.artis.virat.tildenmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353588957423-1umdgqmu28srln75076lfbhgrf7n5to1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artis.virat.tildenmap",
+            "certificate_hash": "75378efdea6c661a903d56e48e2e2b41f125038f"
+          }
+        },
+        {
+          "client_id": "353588957423-da2ftmmtjegrhetald09911bjc49i798.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJc6FPnHom74lkmTD_PP9dXU9ayALpK9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353588957423-fcf1prreo5puvmclh9rc1kr1q6ulurgn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trikhaapps.Tilden-Map"
+              }
+            },
+            {
+              "client_id": "353588957423-da2ftmmtjegrhetald09911bjc49i798.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
